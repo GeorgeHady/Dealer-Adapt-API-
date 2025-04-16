@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA7ObS4ZziwEi5buC5d4khUgAAAAACAAAAAAAQZgAAAAEAACAAAABR1FaL8zzF5DCH/Nmce5le1rgRE5uWk2UGyNz/AwTCXQAAAAAOgAAAAAIAACAAAABised5TPiar3AQJqBwGyuifglzpR+mrBDa6E86PHY4x4AAAABI6q4dJkdxTsXpyQTTBjTYOjLhaAOOzDKCicGShWfqOrFSbgHYCbbeDeOwJhFvXXisHZEmry/T/b7Dst9oB731hT+9jcYHaLMPg2Btj1NNO4BZ4kgolPrebAdMGe2Cy8b3+9drgn3j+cYee+jezy73JOOMsbGJefJSBIwDDUdLIEAAAACrOanbmYnpwtqKvxuDoCAG5DiWN0UDrSeWygItlr/yT2S7OzM4XKUe3Shghznah8QZLfc2KMYr6HxKl8wQdLBb</EncryptedPassword>
+    <History>False|2024-11-03T22:15:59.1513188Z;False|2024-11-03T17:15:32.4104955-05:00;True|2024-10-31T23:05:28.9093635-04:00;True|2024-10-31T22:53:11.8944348-04:00;True|2024-10-31T22:51:35.6250260-04:00;True|2024-10-31T22:50:36.5911360-04:00;False|2024-10-31T22:47:12.2747906-04:00;True|2024-10-31T03:05:30.9700057-04:00;True|2024-10-31T03:03:20.9941714-04:00;True|2024-10-31T02:57:14.3196281-04:00;True|2024-10-31T02:52:48.5572021-04:00;True|2024-10-31T02:50:58.0227809-04:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=dealerdbdbserver.database.windows.net,1433%3bInitial Catalog=DealerDb%3bUser ID=DealerAdaptAPIaun%3bPassword=%24DealerAdaptAPI20241030201842%24#%40!</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Dealer_Adapt_API.Data.ApplicationDbContext">
+      <Value>Data Source=dealerdbdbserver.database.windows.net,1433%3bInitial Catalog=DealerDb%3bUser ID=DealerAdaptAPIaun%3bPassword=%24DealerAdaptAPI20241030201842%24#%40!</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

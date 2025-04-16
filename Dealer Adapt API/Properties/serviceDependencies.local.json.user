@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2024-12-02T16:00:50.2655078Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2024-12-02T16:01:56.3981159Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "35c971e8-0e65-4321-ab5b-1435042e2db8"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "DealerAdaptAPI20241030201842ResourceGroup"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA7ObS4ZziwEi5buC5d4khUgAAAAACAAAAAAAQZgAAAAEAACAAAADWkDeSBEBliO+vkA5tTDt+Fb6QX0sQXnbXJJpZFkVq4QAAAAAOgAAAAAIAACAAAAD0nXNnd02THgfL4sc6fZK8u06C0Hh1o1YynAiPOrjwmYAAAABG7NDz60rs6Hcp/7srVTRO0We6c/cE8mVTzcGI7jd2LzurdnOczkZeIemP3G4zCcPrQY8kuGiQTbsblI0If3c6EHwFGTrdnPREKJJMi79xzDSiS+HdyB0PHPixph7xH39QqSRGTe0V53ITyXSKfpu9mewnP5eltpUb5QmZugFfjEAAAAB4TpTC7ZD0k8LtfK5Ci0q89PT1KAhEHmDy5zaM5BvpjDqBbRq3rS4ZIu42GvbS5wHfdwgCrmFZ9AOpxrH+nGY8</EncryptedPassword>
+    <History>True|2024-12-14T03:17:18.8664872Z;True|2024-12-12T19:30:25.0875261-05:00;True|2024-12-02T10:56:41.5136928-05:00;True|2024-12-02T10:51:59.0733477-05:00;True|2024-12-02T10:09:05.7256554-05:00;True|2024-12-01T15:54:09.9497366-05:00;True|2024-11-30T09:57:13.3967998-05:00;True|2024-11-30T09:36:13.2309117-05:00;False|2024-11-30T09:14:03.8768951-05:00;False|2024-11-30T09:13:12.9009289-05:00;True|2024-11-30T06:07:37.4553686-05:00;True|2024-11-29T07:04:48.8619682-05:00;True|2024-11-20T03:40:22.0476609-05:00;True|2024-11-17T23:38:02.6711335-05:00;True|2024-11-03T17:21:57.5357834-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="Dealer_Adapt_API.Data.ApplicationDbContext">
+      <Value>Data Source=dealerdbdbserver.database.windows.net,1433%3bInitial Catalog=DealerDb%3bUser ID=DealerAdaptAPIaun%3bPassword=%24DealerAdaptAPI20241030201842%24#%40!</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

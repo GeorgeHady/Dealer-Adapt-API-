@@ -1,0 +1,181 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\1433391544-2024-11-25-05-45-32.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\1433391544-2024-11-25-05-45-32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\1663863262-2024-11-25-05-41-30.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\1663863262-2024-11-25-05-41-30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2018-Ford-Escape-3000-1FMCU0HDXJUC91539-1071769826.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2018-Ford-Escape-3000-1FMCU0HDXJUC91539-1071769826.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2018-Ford-Escape-3000-1FMCU0HDXJUC91539-1375529741.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2018-Ford-Escape-3000-1FMCU0HDXJUC91539-1375529741.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2018-Ford-Escape-3000-1FMCU0HDXJUC91539-2145117605.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2018-Ford-Escape-3000-1FMCU0HDXJUC91539-2145117605.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2018-Ford-Escape-3000-1FMCU0HDXJUC91539-559750750.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2018-Ford-Escape-3000-1FMCU0HDXJUC91539-559750750.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2018-GMC-Terrain-10000-3GKALTEV2JL327901-1259268370.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2018-GMC-Terrain-10000-3GKALTEV2JL327901-1259268370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2018-GMC-Terrain-10000-3GKALTEV2JL327901-1611620486.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2018-GMC-Terrain-10000-3GKALTEV2JL327901-1611620486.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2018-GMC-Terrain-10000-3GKALTEV2JL327901-407351478.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2018-GMC-Terrain-10000-3GKALTEV2JL327901-407351478.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2018-GMC-Terrain-10000-3GKALTEV2JL327901-524610030.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2018-GMC-Terrain-10000-3GKALTEV2JL327901-524610030.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2020-Audi-Q8-40000-3GKALTEV2JL327909-1007559721.png",
+      "PackagePath": "staticwebassets\\CarImages\\2020-Audi-Q8-40000-3GKALTEV2JL327909-1007559721.png"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2020-Audi-Q8-40000-3GKALTEV2JL327909-1806951664.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2020-Audi-Q8-40000-3GKALTEV2JL327909-1806951664.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2020-Audi-Q8-40000-3GKALTEV2JL327909-798760408.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2020-Audi-Q8-40000-3GKALTEV2JL327909-798760408.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2020-Audi-Q8-40000-3GKALTEV2JL327909-868660312.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2020-Audi-Q8-40000-3GKALTEV2JL327909-868660312.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2023-Audi-Q5-77000--1301698689.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2023-Audi-Q5-77000--1301698689.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2023-Audi-Q5-77000--153789577.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2023-Audi-Q5-77000--153789577.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2024-Audi-Q8-30000-3GKALTEV8JL327901-1356770557.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2024-Audi-Q8-30000-3GKALTEV8JL327901-1356770557.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2024-Audi-SQ5-44000--1478391713.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2024-Audi-SQ5-44000--1478391713.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2024-Audi-SQ5-44000--1740871814.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2024-Audi-SQ5-44000--1740871814.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2024-Audi-SQ5-44000--1914346982.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2024-Audi-SQ5-44000--1914346982.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2024-Audi-SQ5-44000--436992985.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2024-Audi-SQ5-44000--436992985.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2024-Audi-SQ5-44000--491157659.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2024-Audi-SQ5-44000--491157659.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2024-Audi-SQ5-44000--567265925.png",
+      "PackagePath": "staticwebassets\\CarImages\\2024-Audi-SQ5-44000--567265925.png"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2024-Audi-SQ5-44000--655209005.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2024-Audi-SQ5-44000--655209005.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2024-Audi-SQ8-12000--2041554571.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2024-Audi-SQ8-12000--2041554571.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2024-car1-model22-55000--16353644.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2024-car1-model22-55000--16353644.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2024-car1-model22-55000--424896010.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2024-car1-model22-55000--424896010.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2025-Audi-Q8-0--1166934892.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2025-Audi-Q8-0--1166934892.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2025-Audi-Q8-0--1186011622.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2025-Audi-Q8-0--1186011622.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2025-Audi-Q8-0--1329557764.png",
+      "PackagePath": "staticwebassets\\CarImages\\2025-Audi-Q8-0--1329557764.png"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2025-Audi-Q8-0--15758258.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2025-Audi-Q8-0--15758258.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2025-Audi-Q8-0--1719593067.png",
+      "PackagePath": "staticwebassets\\CarImages\\2025-Audi-Q8-0--1719593067.png"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2025-Audi-Q8-0--1935061381.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2025-Audi-Q8-0--1935061381.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2025-Audi-Q8-0--1993867582.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2025-Audi-Q8-0--1993867582.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2025-Audi-Q8-0--859277193.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2025-Audi-Q8-0--859277193.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\2121245920-2024-11-25-05-38-37.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\2121245920-2024-11-25-05-38-37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\297273431-2024-11-25-05-45-33.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\297273431-2024-11-25-05-45-33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\752119563-2024-11-25-05-41-30.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\752119563-2024-11-25-05-41-30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\82092467-2024-11-25-05-45-33.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\82092467-2024-11-25-05-45-33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive - Mohawk College of Applied Arts and Technology\\Semester 6\\Capstone\\Dealer Adapt\\Dealer Adapt API\\wwwroot\\CarImages\\968998755-2024-11-25-05-41-30.jpg",
+      "PackagePath": "staticwebassets\\CarImages\\968998755-2024-11-25-05-41-30.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Dealer Adapt API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Dealer Adapt API.props",
+      "PackagePath": "build\\Dealer Adapt API.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Dealer Adapt API.props",
+      "PackagePath": "buildMultiTargeting\\Dealer Adapt API.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Dealer Adapt API.props",
+      "PackagePath": "buildTransitive\\Dealer Adapt API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

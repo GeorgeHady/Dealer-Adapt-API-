@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Dealer Adapt API.props" />
+</Project>

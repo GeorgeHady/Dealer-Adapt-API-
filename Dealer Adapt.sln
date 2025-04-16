@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dealer Adapt API", "Dealer Adapt API\Dealer Adapt API.csproj", "{7A229586-F7C6-41D5-AF50-BE36CB6AFDF6}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "ReactWebUI.client", "ReactWebUI\ReactWebUI.client.esproj", "{6BCB33C1-A7A9-4507-AA46-0AA2280895C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A229586-F7C6-41D5-AF50-BE36CB6AFDF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A229586-F7C6-41D5-AF50-BE36CB6AFDF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A229586-F7C6-41D5-AF50-BE36CB6AFDF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A229586-F7C6-41D5-AF50-BE36CB6AFDF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BCB33C1-A7A9-4507-AA46-0AA2280895C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BCB33C1-A7A9-4507-AA46-0AA2280895C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BCB33C1-A7A9-4507-AA46-0AA2280895C7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6BCB33C1-A7A9-4507-AA46-0AA2280895C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BCB33C1-A7A9-4507-AA46-0AA2280895C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BCB33C1-A7A9-4507-AA46-0AA2280895C7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DF39B16-D36A-4C06-A54D-B84DBD3F0A48}
+	EndGlobalSection
+EndGlobal
